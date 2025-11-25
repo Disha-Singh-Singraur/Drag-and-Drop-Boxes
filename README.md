@@ -47,6 +47,15 @@ After deploying on GitHub Pages, replace the link below:
 
 ---
 
+## 🛠 Run Locally
+```
+git clone https://github.com/Disha-Singh-Singraur/drag-drop-boxes.git
+cd drag-drop-boxes
+open index.html
+```
+
+---
+
 ## 💡 Purpose of This Project
 This project represents one of my **early milestones in frontend development**.  
 It reflects my progress in understanding:
