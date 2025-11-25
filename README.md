@@ -42,7 +42,7 @@ The page contains **two main containers**, each holding **four draggable boxes**
 After deploying on GitHub Pages, replace the link below:
 
 ```
-🔴 Live Project: https://yourusername.github.io/drag-drop-boxes/
+🔴 Live Project:  https://disha-singh-singraur.github.io/Drag-and-Drop-Boxes/
 ```
 
 ---
