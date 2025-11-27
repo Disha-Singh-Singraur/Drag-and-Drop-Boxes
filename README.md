@@ -1,7 +1,8 @@
 # 🔁 Drag & Drop Boxes — HTML | CSS | JavaScript
 
 This is an interactive drag-and-drop project built using **HTML, CSS, and Vanilla JavaScript**.  
-The page contains **two main containers**, each holding **four draggable boxes**. Users can drag and move the boxes from one container to the other, demonstrating real-time UI interaction without any external libraries.
+The page contains **two main containers**, each holding **four draggable boxes**. Users can drag and move the boxes from one container to the other, demonstrating real-time UI interaction without any external libraries. 
+NOTE: Mobile drag is not added.
 
 ---
 
